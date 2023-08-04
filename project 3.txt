@@ -1,0 +1,18 @@
+
+Project 3 
+
+https://www.digitalocean.com/community/tutorials/get-unique-values-from-a-list-in-python
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.percentileofscore.html
+
+https://online.stat.psu.edu/stat500/book/export/html/472
+
+
+https://learn.udacity.com/nanodegrees/nd002-mcit/parts/cd0005/lessons/ls0221/concepts/ce017a5c-95ee-42fc-bbcd-b97dfeef854f
+
+https://learn.udacity.com/nanodegrees/nd002-mcit/parts/cd0005/lessons/ls12048/concepts/61c190e4-6d02-49cb-8d1c-8c48d262f5e0
+
+https://learn.udacity.com/nanodegrees/nd002-mcit/parts/cd0005/lessons/ls12049/concepts/e10df240-8ade-4ba1-9777-3396a8872e6d
+
